@@ -1,0 +1,1 @@
+var e=document.querySelector(".portfolio-photo");e.addEventListener("mouseover",function(){this.classList.add("active-circle")}),e.addEventListener("mouseout",function(){this.classList.remove("active-circle")});var t=document.querySelector(".main-menu-social");e.addEventListener("click",function(){t.classList.toggle("shown-btn")});
